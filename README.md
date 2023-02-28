@@ -44,3 +44,24 @@ To run this project on your local machine, follow these steps:
 
 ```sh
 git clone https://github.com/your-username/netflix-clone-react-tmdb.git
+## Install the dependencies:
+sh
+Copy code
+cd netflix-clone-react-tmdb
+npm install
+## Create a .env file in the root directory and add your TMDB API key:
+sh
+Copy code
+REACT_APP_TMDB_API_KEY=your_api_key_here
+Start the development server:
+sh
+Copy code
+npm start
+Usage
+After following the installation steps, you can access the project by opening your browser and navigating to http://localhost:3000.
+
+## Contributing
+Contributions are welcome! If you have any ideas or suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
