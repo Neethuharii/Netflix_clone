@@ -1,27 +1,30 @@
-Netflix Clone with ReactJS and TMDB API Integration
-This is a project to build a Netflix Clone using ReactJS and TMDB API Integration. Axios is used for API requests.
+#Netflix Clone with ReactJS and TMDB API Integration
+#This is a project to build a Netflix Clone using ReactJS and TMDB API Integration. Axios is used for API requests.
 
-Table of Contents
-Features
-Demo
-Technologies Used
-Installation
-Configuration
-Usage
-Contributing
-License
-Features
-Display popular movies and TV shows from TMDB API
-Search movies and TV shows
-Display movie and TV show details
+#Table of Contents
+#Features
+#Demo
+#Technologies Used
+#Installation
+#Configuration
+#Usage
+#Contributing
+#License
+#Features
+#Display popular movies and TV shows from TMDB API
+#Search movies and TV shows
 Trailer player for movies
-Demo
+#Display movie and TV show detailsTrailer player for movies
+#Trailer player for movies
+
+
+#Demo
 Here is a demo link of the Netflix Clone.
 
-Technologies Used
-ReactJS
-TMDB API
-Axios
+#Technologies Used
+#ReactJS
+#TMDB API
+#Axios
 Netlify
 Installation
 To install and run the project locally, follow these steps:
