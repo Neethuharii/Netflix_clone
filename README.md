@@ -1,68 +1,46 @@
-#Netflix Clone with ReactJS and TMDB API Integration
-#This is a project to build a Netflix Clone using ReactJS and TMDB API Integration. Axios is used for API requests.
+# Netflix Clone with ReactJS and TMDB API Integration
 
-#Table of Contents
-#Features
-#Demo
-#Technologies Used
-#Installation
-#Configuration
-#Usage
-#Contributing
-#License
-#Features
-#Display popular movies and TV shows from TMDB API
-#Search movies and TV shows
-Trailer player for movies
-#Display movie and TV show detailsTrailer player for movies
-#Trailer player for movies
+A Netflix Clone built with ReactJS and TMDB API integration using Axios.
 
+## Table of Contents
 
-#Demo
-Here is a demo link of the Netflix Clone.
+- [Overview](#overview)
+  - [Demo](#demo)
+  - [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-#Technologies Used
-#ReactJS
-#TMDB API
-#Axios
-Netlify
-Installation
-To install and run the project locally, follow these steps:
+## Overview
 
-Clone the repository
-bash
-Copy code
-git clone https://github.com/username/netflix-clone-react-tmdb.git
-Change into the project directory
-bash
-Copy code
-cd netflix-clone-react-tmdb
-Install dependencies
-bash
-Copy code
-npm install
-Start the development server
-bash
-Copy code
-npm start
-Configuration
-You need to have an API key from TMDB to be able to run the project. You can get an API key by creating an account at TMDB website.
+This project is a Netflix Clone built with ReactJS and TMDB API integration using Axios. It allows users to search for popular movies and TV shows, display their details, and watch trailers.
 
-Once you have the API key, create a .env file in the root directory and add the following line:
+### Demo
 
-bash
-Copy code
-REACT_APP_TMDB_API_KEY=<your_api_key_here>
-Usage
-After installation and configuration, you can access the project by opening your browser and going to http://localhost:3000.
+Here's a [live demo](https://netflix-clone-react-tmdb.netlify.app/) of the project.
 
-Contributing
-Contributions are welcome. To contribute, follow these steps:
+### Features
 
-Fork the repository
-Create a new branch
-Make changes and commit them
-Push to the new branch
-Submit a pull request
-License
-This project is licensed under the MIT License..
+- Display popular movies and TV shows from TMDB API
+- Search movies and TV shows
+- Display movie and TV show details
+- Watch trailers for movies
+
+## Technologies
+
+This project uses the following technologies:
+
+- ReactJS
+- TMDB API
+- Axios
+
+## Installation
+
+To run this project on your local machine, follow these steps:
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/your-username/netflix-clone-react-tmdb.git
